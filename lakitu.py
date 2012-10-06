@@ -1,8 +1,8 @@
 import cloudfiles
 
 # authentication
-username = 'account_name:the_username'
-api_key = 'the_api_key'
+username = 'your_account_name:your_user_name'
+api_key = 'your_api_key'
 
 # make a connection
 conn = cloudfiles.get_connection(
